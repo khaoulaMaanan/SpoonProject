@@ -1,0 +1,5 @@
+graph G {
+	AA -- BB[label  ="0.4"];
+	AA -- CC[label  ="0.1"];
+	BB -- CC[label  ="0.2"];
+}
